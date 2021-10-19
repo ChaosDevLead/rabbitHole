@@ -11,7 +11,7 @@ body{
     height: 100vh;
     overflow:hidden;
     margin: 0;
-    background: url(./images/sunset\ \(2\).jpg) no-repeat fixed center;
+    background: url('./images/sunset\ \(2\).jpg') no-repeat fixed center;
 }
 .container {
     display: flex;
