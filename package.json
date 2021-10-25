@@ -21,6 +21,8 @@
   "dependencies": {
     "androidjs": "^2.0.4",
     "express": "^4.17.1",
-    "socket.io": "^4.2.0"
+    "socket.io": "^4.2.0",
+    "volley": "^1.2.0",
+    "volleyball": "^1.5.1"
   }
 }
